@@ -1,0 +1,66 @@
+body{
+    background-color: rgb(213, 209, 204);
+}
+div{
+    display: inline-block;
+    background-color: white;
+    width: 26%;
+    border-radius: 20px;
+    padding: 35px;
+    
+}
+span{
+    font-weight: bold;
+    font-size: 30px;
+    color: black;
+}
+p{
+    color: rgb(157, 155, 154);
+}
+img{
+    width: 50px;
+    height: 50px;
+}
+.yellow{
+    color: rgb(255, 196, 0);
+    font-size: 25px;
+    font-weight: bold;
+}
+ul{
+    list-style-type: none;
+}
+ul li::before{
+    content: "✓";
+    color: rgb(255, 196, 0);
+    font-weight: bold;
+}
+.button1{
+    background-color: antiquewhite;
+    padding: 10px 30px;
+    border-radius: 10px;
+    text-align: center;
+}
+.blue{
+    color: deepskyblue;
+    font-size: 25px;
+    font-weight: bold;
+}
+.button2{
+    padding: 10px 30px;
+    border-radius: 10px;
+    text-align: center;
+    border: 1px solid  rgb(225, 225, 225);
+    background-color: transparent;
+}
+.green{
+    color: aquamarine;
+    font-size: 25px;
+    font-weight: bold;
+}
+.button3{
+    background-color: aquamarine;
+    padding: 10px 30px;
+    border-radius: 10px;
+    text-align: center;
+    color: white;
+}

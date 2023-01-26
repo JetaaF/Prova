@@ -1,0 +1,41 @@
+
+.titulli2{
+    padding: 10px;
+    font-size: 25px;
+}
+span{
+    font-weight: bold;
+}
+div{
+    margin-top: 5px;
+    background-color: white;
+    box-shadow: 0px 1px 5px 2px rgb(231, 231, 231);
+    text-align: center;
+    border-radius: 10px;
+}
+.teksti{
+    margin: 2px;
+    width: 60%;
+    line-height: 135%;
+    display: inline-block;
+}
+.boldi{
+    font-weight: bold;
+}
+.artist{
+    display: inline-block;
+}
+.foto{
+    border-radius: 50px;
+    width: 60%;
+}
+.info{
+    color: rgb(79, 80, 80);
+    line-height: 135%;
+}
+.boldi2{
+    color: rgb(110, 111, 111);
+}
+.info2{
+    color: rgb(110, 111, 111);
+}

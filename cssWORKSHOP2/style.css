@@ -1,0 +1,47 @@
+/* p.sh
+p, .test{}.,.,,,
+ktu perfshihen krejt paragrafat eshe
+cdo element qe e ka klasej "test" */
+/* 
+p, a, ol, h1, li{
+    color: orange;
+} */
+
+
+
+/* div p{
+    color: aqua;
+} */
+/* cdo paragraf qe gjendet brenda DIV */
+
+
+
+/* .test p{}.,.,,. selekton cdo paragraf te nje elementi
+me klasen "test" */
+.test p{
+    background-color: gold;
+}
+
+
+/* per me selektu dicka qe vjen mas ni elementi e bon (x + y)
+p.sh
+<p>ahhaha</p>
+<p>ahhaha</p>
+<p>ahhaha</p>
+<a href="#">link</a>.,,
+
+ne CSS:
+
+p + a{}
+selekton veq  "a" qe osht menihere mas "p"*/
+h1 + h2{
+    background-color: lawngreen;
+}
+
+
+/* "~" ka funksion te njejt si "+",.,.,
+dallimi i vetem osht qe kjo "~" i selekton krejt cka do qe po lup mas ni elementi,
+(+ u perdor veq me selektu diqka direkt mas elementit */
+h1 ~ h2{
+    color: magenta;
+}

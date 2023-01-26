@@ -1,0 +1,38 @@
+header{
+    background-color: darkorange;
+    width: 100%;
+    height: 50px;
+    text-align: center;
+}
+nav{
+    background-color: aquamarine;
+    width: 100%;
+    height: 50px;
+    text-align: center;
+}
+div{
+    background-color: chartreuse;
+    display: inline-block;
+    width: 70%;
+    height: 400px;
+}
+
+aside{
+    background-color: crimson;
+    display: inline;
+    width: 30%;
+    height: 400px;
+    float: right;
+
+}
+footer{
+    width: 100px;
+    height: 100px;
+    background-color: greenyellow;
+    display: block;
+}
+section{
+    background-color: deepskyblue;
+    height: 50%;
+
+}

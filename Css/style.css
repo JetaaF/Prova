@@ -1,0 +1,26 @@
+p{
+    color: yellowgreen;
+    background-color: rgb(32,43,75);
+    /* background-color: #5b4c7f; */
+     letter-spacing: 8px;
+    /* letter-spacing.,.,., hapsira ne mes te shkronjave */
+    word-spacing: 15px;
+    /* word-spacing.,.,., hapsira ne mes te fjaleve */
+    text-indent: 40px;
+    /* text-indent.,.,., hapsira e rreshtit te pare,..,.,nuk
+    perseritet per rreshtet e tjetra */
+  text-align: left;
+  /* text-align.,.,,.drron se per ku fillon teksti.,., ne te majt, djatht,
+   ne qender.,. dhe duke e mbushur ter rreshtin */ 
+   text-decoration: underline;
+   /* dekoron.,., me underline,, overline,, vija ne mes .,.,.,
+   etje */
+   text-transform: capitalize;
+  /* capitalizw- shkronjat e para te mdhaja,,
+  lowwercase- krejt shkronjat i kthen te vogla pamvarsisht.,.
+  uppercase- krejta shkronjat i kthen te mdhasa pamvarsisht */
+  line-height: 35px;
+  /* largesia ne mes te fjalive */
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+

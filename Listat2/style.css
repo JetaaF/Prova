@@ -1,0 +1,28 @@
+ul{
+    list-style-type: circle;
+    /* disc,square,cirle */
+    
+}
+
+ol{
+    list-style-type: decimal;
+}
+
+ul{
+    background-color: darksalmon;
+}
+.ditaepare{
+    background-color: aqua;
+}
+.diteedyte{
+    background-color: crimson;
+}
+.ditaetrete{
+    background-color: darkorange;
+}
+.ditaekatert{
+    background-color: greenyellow;
+}
+.ditaepeste{
+    background-color: gold;
+}

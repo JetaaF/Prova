@@ -1,0 +1,21 @@
+/* krejt fmit e par selekton me
+x: first-child (x=element)*/
+p:first-child{
+    color: rgb(16, 212, 247);
+}
+p:last-child{
+    color: darkorange;
+}
+/* :nth-child()
+nkllapa tregon cilin fmi */
+p:nth-child(3){
+    color:maroon
+}
+
+
+/* :nth-last-of-type() 
+nkllapa percakton,,,odd(tek)
+even(cift)*/
+p:last-of-type(even){
+    color: rgb(255, 0, 85);
+}

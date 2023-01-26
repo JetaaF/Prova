@@ -1,0 +1,8 @@
+div{
+    width: 100px;
+    height: 100px;
+    background-color: orange;
+    /* 'x',,'y',,blur,,spred(sa sgjerodhet),,ngjyra */
+    /* nese e bojm ''inset'' hijen e kthen per mbrena */
+    box-shadow: 5px 3px 10px 1px rgb(123, 123, 178);
+}
